@@ -11,6 +11,7 @@ public class RAssignment {
         validateUserInfo.checkEmail();//UC3
         validateUserInfo.checkPhone();//UC4
         validateUserInfo.checkPassword();//UC5 Rule - 3
+        validateUserInfo.checkSampleEmail();//UC9
     }
 
     }
